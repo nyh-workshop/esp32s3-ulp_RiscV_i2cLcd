@@ -1,0 +1,7 @@
+.vscode/
+build/
+.devcontainer/
+sdkconfig.txt
+sdkconfig.old
+sdkconfig.ci
+pytest_*.py
